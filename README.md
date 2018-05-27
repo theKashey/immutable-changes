@@ -1,5 +1,7 @@
 # Immutable-changes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/theKashey/immutable-changes.svg)](https://greenkeeper.io/)
+
 detects changes applied to 2 "immutable" objects, like 2 different redux states
 
 ## API
